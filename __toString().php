@@ -3,3 +3,4 @@ $xml = new SimpleXMLElement("<note>Hello <to>Tove</to><from>Jani</from>World!</n
 echo $xml;
 ?>
 <!-- cambio prueba -->
+ <!-- segundo -->
